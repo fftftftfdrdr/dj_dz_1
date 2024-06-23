@@ -1,0 +1,17 @@
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\django3\Django\django1p\django1p\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\django3\Django\django1p\myapp1\views.py changed, reloading.
+C:\Users\User\Desktop\django3\Django\django1p\myapp1\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+������� �������� ���� ��������
+"GET / HTTP/1.1" 200 241
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2345
+Watching for file changes with StatReloader
+������� �������� ���� ��������
+"GET / HTTP/1.1" 200 241
+�������� '� ����' ���� ��������
+"GET /about/ HTTP/1.1" 200 225
